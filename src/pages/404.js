@@ -9,7 +9,7 @@ export default (() => {
 		<GlobalQuarklyPageStyles pageUrl={"404"} />
 		<Helmet>
 			<title>
-				Find a - Find a soulmate
+				Find a BF - Find a soulmate
 			</title>
 			<meta name={"description"} content={"Need a BF/ Well look no further, here you can find tips and tricks to get yourself your very own teddy bear"} />
 			<link rel={"shortcut icon"} href={"https://uploads.quarkly.io/67c1095ee778710018d7c563/images/1738221390068.jpg?v=2025-03-08T04:04:03.067Z"} type={"image/x-icon"} />

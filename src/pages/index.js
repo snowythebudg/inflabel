@@ -9,17 +9,63 @@ export default (() => {
 		<GlobalQuarklyPageStyles pageUrl={"index"} />
 		<Helmet>
 			<title>
-				Find a - Find a soulmate
+				Find a BF - Find a soulmate
 			</title>
 			<meta name={"description"} content={"Need a BF/ Well look no further, here you can find tips and tricks to get yourself your very own teddy bear"} />
 			<link rel={"shortcut icon"} href={"https://uploads.quarkly.io/67c1095ee778710018d7c563/images/1738221390068.jpg?v=2025-03-08T04:04:03.067Z"} type={"image/x-icon"} />
 		</Helmet>
-		<Section padding="80px 0" sm-padding="40px 0">
+		<Section padding="180px 0 184px 0" background="rgba(0, 0, 0, 0) url(https://images.unsplash.com/photo-1490049350474-498de43bc885?ixlib=rb-4.0.3&q=85&fm=jpg&crop=entropy&cs=srgb&w=2000) 0% 0% /cover repeat scroll padding-box" sm-padding="120px 0 124px 0" quarkly-title="Hero-15">
+			<Text
+				margin="0px 0px 30px 0px"
+				text-align="center"
+				color="--light"
+				font="normal 400 18px/1.5 --fontFamily-sans"
+				letter-spacing="1px"
+			>
+				Welcome!
+			</Text>
+			<Text
+				margin="0px 0px 50px 0px"
+				text-align="center"
+				font="normal 700 64px/1.2 --fontFamily-sans"
+				letter-spacing="1px"
+				color="#ffffff"
+				padding="0px 250px 0px 250px"
+				lg-padding="0px 0 0px 0"
+				md-font="normal 700 42px/1.2 --fontFamily-sans"
+				sm-font="normal 700 36px/1.2 --fontFamily-sans"
+			>
+				Are you looking for a BF, look no further!
+			</Text>
+			<Text
+				margin="0px 0px 0px 0px"
+				color="#ffffff"
+				text-align="center"
+				padding="0px 250px 0px 250px"
+				font="--lead"
+				lg-padding="0px 0 0px 0"
+			>
+				Welcome to FindABF. We have some tips and tricks to finding a cute boy to be with you forever
+			</Text>
+		</Section>
+		<Section padding="80px 0" sm-padding="40px 0" background="#000000">
 			<Override slot="SectionContent" align-items="center" />
-			<Text as="h2" font="--headline1" md-font="--headline2" margin="20px 0 0 0">
+			<Text
+				as="h2"
+				font="--headline1"
+				md-font="--headline2"
+				margin="20px 0 0 0"
+				color="#ffffff"
+			>
 				Reasons to get a BF
 			</Text>
-			<Text as="p" font="--lead" margin="20px 0 20px 0" text-align="center">
+			<Text
+				as="p"
+				font="--lead"
+				margin="20px 0 20px 0"
+				text-align="center"
+				color="#ffffff"
+			>
 				Having a boyfriend can bring a unique blend of companionship and understanding that enriches life in countless ways. You gain a partner who inherently understands certain shared experiences, from navigating societal expectations to appreciating similar interests. The emotional connection can feel effortless as you both speak the same unspoken language of shared perspectives. Beyond the deep bond, you'll have someone to adventure with, whether it's hiking remote trails or exploring new restaurants in the city. A boyfriend can be your steadfast supporter through challenges, your enthusiastic cheerleader during triumphs, and your comfortable silence during quiet moments. The relationship offers both the comfort of understanding and the excitement of discovering new dimensions of connection, creating a partnership where you can truly be yourself while growing together.
 				<br />
 				<br />
@@ -96,7 +142,7 @@ No Need to Decode Signals – Guys are often more straightforward with their fee
 									</Box>
 								</Box>
 							</Formspree>
-							<Button type="link" href="https://pornhub.com" target="_blank">
+							<Button type="link" href="mailto:snowythebudg@gmail.com?I need a boyfriend, help!">
 								Send
 							</Button>
 						</Box>
