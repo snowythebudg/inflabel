@@ -9,10 +9,10 @@ export default (() => {
 		<GlobalQuarklyPageStyles pageUrl={"404"} />
 		<Helmet>
 			<title>
-				Quarkly export
+				Find a - Find a soulmate
 			</title>
-			<meta name={"description"} content={"Web site created using quarkly.io"} />
-			<link rel={"shortcut icon"} href={"https://uploads.quarkly.io/readme/cra/favicon-32x32.ico"} type={"image/x-icon"} />
+			<meta name={"description"} content={"Need a BF/ Well look no further, here you can find tips and tricks to get yourself your very own teddy bear"} />
+			<link rel={"shortcut icon"} href={"https://uploads.quarkly.io/67c1095ee778710018d7c563/images/1738221390068.jpg?v=2025-03-08T04:04:03.067Z"} type={"image/x-icon"} />
 		</Helmet>
 		<Section padding="140px 0" sm-padding="40px 0 40px 0" background="url(https://uploads.quarkly.io/67c1095ee778710018d7c563/images/1738221390068.jpg?v=2025-03-08T04:04:03.067Z) center/cover">
 			<Override slot="SectionContent" sm-align-items="center" />

@@ -24,6 +24,10 @@ export default {
 	"projectType": "gatsby",
 	"site": {
 		"styles": {},
-		"seo": {}
+		"seo": {
+			"title": "Find a - Find a soulmate",
+			"description": "Need a BF/ Well look no further, here you can find tips and tricks to get yourself your very own teddy bear",
+			"favicon_32px": "https://uploads.quarkly.io/67c1095ee778710018d7c563/images/1738221390068.jpg?v=2025-03-08T04:04:03.067Z"
+		}
 	}
 }

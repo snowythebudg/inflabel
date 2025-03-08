@@ -9,18 +9,41 @@ export default (() => {
 		<GlobalQuarklyPageStyles pageUrl={"index"} />
 		<Helmet>
 			<title>
-				Quarkly export
+				Find a - Find a soulmate
 			</title>
-			<meta name={"description"} content={"Web site created using quarkly.io"} />
-			<link rel={"shortcut icon"} href={"https://uploads.quarkly.io/readme/cra/favicon-32x32.ico"} type={"image/x-icon"} />
+			<meta name={"description"} content={"Need a BF/ Well look no further, here you can find tips and tricks to get yourself your very own teddy bear"} />
+			<link rel={"shortcut icon"} href={"https://uploads.quarkly.io/67c1095ee778710018d7c563/images/1738221390068.jpg?v=2025-03-08T04:04:03.067Z"} type={"image/x-icon"} />
 		</Helmet>
 		<Section padding="80px 0" sm-padding="40px 0">
 			<Override slot="SectionContent" align-items="center" />
 			<Text as="h2" font="--headline1" md-font="--headline2" margin="20px 0 0 0">
-				About Us
+				Reasons to get a BF
 			</Text>
 			<Text as="p" font="--lead" margin="20px 0 20px 0" text-align="center">
-				Having a boyfriend can bring a unique blend of companionship and understanding that enriches life in countless ways. You gain a partner who inherently understands certain shared experiences, from navigating societal expectations to appreciating similar interests. The emotional connection can feel effortless as you both speak the same unspoken language of shared perspectives. Beyond the deep bond, you'll have someone to adventure with, whether it's hiking remote trails or exploring new restaurants in the city. A boyfriend can be your steadfast supporter through challenges, your enthusiastic cheerleader during triumphs, and your comfortable silence during quiet moments. The relationship offers both the comfort of understanding and the excitement of discovering new dimensions of connection, creating a partnership where you can truly be yourself while growing together.{"\n\n"}
+				Having a boyfriend can bring a unique blend of companionship and understanding that enriches life in countless ways. You gain a partner who inherently understands certain shared experiences, from navigating societal expectations to appreciating similar interests. The emotional connection can feel effortless as you both speak the same unspoken language of shared perspectives. Beyond the deep bond, you'll have someone to adventure with, whether it's hiking remote trails or exploring new restaurants in the city. A boyfriend can be your steadfast supporter through challenges, your enthusiastic cheerleader during triumphs, and your comfortable silence during quiet moments. The relationship offers both the comfort of understanding and the excitement of discovering new dimensions of connection, creating a partnership where you can truly be yourself while growing together.
+				<br />
+				<br />
+				Reasons why you should get a BF
+				<br />
+				<br />
+				Less Drama – Many guys tend to be more laid-back and direct, which can mean fewer misunderstandings.
+				<br />
+				{"\n"}Shared Interests – If you're both into gaming, sports, tech, or cars, there's a good chance you’ll naturally bond over common hobbies.{"\n"}
+				<br />
+				Chill Maintenance – Some guys are just happy to hang out, grab food, and vibe without overcomplicating things.{"\n"}
+				<br />
+				Stronger Emotional Understanding – Since you both experience the world as men, it can be easier to relate to each other's struggles and perspectives.
+No Need to Decode Signals – Guys are often more straightforward with their feelings, which can make communication easier.{"\n"}
+				<br />
+				Better Cuddles – Let’s be real—big arms, strong hugs, and warmth? Yes, please.{"\n"}
+				<br />
+				More Fun in the Gym – Having a gym buddy who’s also your boyfriend? Solid motivation.{"\n"}
+				<br />
+				Less Pressure on Gender Roles – A relationship between two guys tends to break away from traditional expectations, letting both people just be themselves.{"\n"}
+				<br />
+				Mutual Grooming Benefits – Sharing skincare, cologne, or fashion advice? Elite.{"\n"}
+				<br />
+				Double the Wardrobe – If you have a similar size and style, your closet just got an upgrade.
 			</Text>
 		</Section>
 		<Section background="--color-dark" color="--dark" padding="64px 0 64px 0">
@@ -38,7 +61,7 @@ export default (() => {
 						</Text>
 					</Box>
 					<Text margin="0px 0px 0px 0px" color="#ffffff" font="50 px">
-						With the help of INF Label, we can help! Our team will try and reply as fast as possible and we'll get your music out!
+						Do you need help finding a boyfriend, well look no further!
 					</Text>
 				</Box>
 				<Box width="50%" padding="8px 8px 8px 8px" lg-width="100%">
@@ -67,7 +90,7 @@ export default (() => {
 									</Box>
 									<Box display="flex" flex-direction="column" grid-column="1 / span 2">
 										<Text font="--base" margin="0 0 4px 0" color="#ffffff">
-											Music Info Demo Link
+											What i need in a BF
 										</Text>
 										<Input as="textarea" rows="4" width="100%" name="message" />
 									</Box>
@@ -153,7 +176,7 @@ export default (() => {
 					margin="0px 0px 16px 0px"
 				/>
 				<Text margin="0px 0px 48px 0px" font="--headline3" color="--light" text-align="center">
-					(C) 2025 INF Label. All rights reserved
+					(C) 2025 FindABF Publications LLC. All rights reserved
 				</Text>
 			</Box>
 		</Section>
