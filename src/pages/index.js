@@ -1,6 +1,6 @@
 import React from "react";
 import theme from "theme";
-import { Theme, Link, Text, Strong, Section, Box, Input, Button } from "@quarkly/widgets";
+import { Theme, Link, Text, Section, Box, Input, Button } from "@quarkly/widgets";
 import { Helmet } from "react-helmet";
 import { GlobalQuarklyPageStyles } from "global-page-styles";
 import { RawHtml, Override, Formspree, SocialMedia } from "@quarkly/components";
@@ -20,41 +20,7 @@ export default (() => {
 				About Us
 			</Text>
 			<Text as="p" font="--lead" margin="20px 0 20px 0" text-align="center">
-				At INF Label we are more than just a music distributor we are a movement dedicated to empowering independent artists. Inspired by the success of 0to8, we strive to break barriers and provide musicians with the tools, support, and reach they need to thrive in today’s digital world.
-				<br />
-				<br />
-				Our mission is simple:{" "}
-				<Strong
-					overflow-wrap="normal"
-					word-break="normal"
-					white-space="normal"
-					text-indent="0"
-					text-overflow="clip"
-					hyphens="manual"
-					user-select="auto"
-					pointer-events="auto"
-				>
-					to connect artists with the global audience they deserve.
-				</Strong>
-				{" "}Through innovative distribution strategies, industry connections, and cutting-edge marketing, we ensure that every song reaches the right ears on platforms like Spotify, Apple Music, YouTube, and beyond.
-				<br />
-				<br />
-				Whether you're an emerging talent or an established artist, 0NX Records is here to help you navigate the ever-evolving music industry. Join us, and let’s turn your passion into a legacy.
-				<br />
-				<br />
-				🚀{" "}
-				<Strong
-					overflow-wrap="normal"
-					word-break="normal"
-					white-space="normal"
-					text-indent="0"
-					text-overflow="clip"
-					hyphens="manual"
-					user-select="auto"
-					pointer-events="auto"
-				>
-					Distribute.
-				</Strong>
+				Having a boyfriend can bring a unique blend of companionship and understanding that enriches life in countless ways. You gain a partner who inherently understands certain shared experiences, from navigating societal expectations to appreciating similar interests. The emotional connection can feel effortless as you both speak the same unspoken language of shared perspectives. Beyond the deep bond, you'll have someone to adventure with, whether it's hiking remote trails or exploring new restaurants in the city. A boyfriend can be your steadfast supporter through challenges, your enthusiastic cheerleader during triumphs, and your comfortable silence during quiet moments. The relationship offers both the comfort of understanding and the excitement of discovering new dimensions of connection, creating a partnership where you can truly be yourself while growing together.{"\n\n"}
 			</Text>
 		</Section>
 		<Section background="--color-dark" color="--dark" padding="64px 0 64px 0">
@@ -107,7 +73,7 @@ export default (() => {
 									</Box>
 								</Box>
 							</Formspree>
-							<Button type="link" href="https://pornhub.cA" target="_blank">
+							<Button type="link" href="https://pornhub.com" target="_blank">
 								Send
 							</Button>
 						</Box>
